@@ -2,35 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/11/06/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95/%E7%AE%80%E5%8E%86%E5%8F%8A%E7%9F%AD%E6%9C%9F%E8%A7%84%E5%88%92/</loc>
+    <loc>http://xinl.top/2020/11/06/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/MySQL/%E3%80%90MySQL%E3%80%91%E9%A2%98%E7%9B%AE%E6%B1%87%E6%80%BB/</loc>
     
     <lastmod>2020-11-06</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/gallery/index.html</loc>
+    <loc>http://xinl.top/2020/11/06/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95/%E7%AE%80%E5%8E%86%E5%8F%8A%E7%9F%AD%E6%9C%9F%E8%A7%84%E5%88%92/</loc>
+    
+    <lastmod>2020-11-06</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://xinl.top/gallery/index.html</loc>
     
     <lastmod>2020-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://xinl.top/tags/index.html</loc>
     
     <lastmod>2020-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/categories/index.html</loc>
+    <loc>http://xinl.top/categories/index.html</loc>
     
     <lastmod>2020-11-05</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/slides/index.html</loc>
+    <loc>http://xinl.top/slides/index.html</loc>
     
     <lastmod>2020-11-04</lastmod>
     
@@ -38,7 +45,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://xinl.top/</loc>
     <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -46,28 +53,42 @@
 
   
   <url>
-    <loc>http://example.com/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
+    <loc>http://xinl.top/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
     <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%AE%80%E5%8E%86%E5%87%86%E5%A4%87/</loc>
+    <loc>http://xinl.top/tags/MySQL/</loc>
     <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E7%9F%AD%E6%9C%9F%E8%A7%84%E5%88%92/</loc>
+    <loc>http://xinl.top/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E9%95%BF%E6%9C%9F%E7%9B%AE%E6%A0%87/</loc>
+    <loc>http://xinl.top/tags/%E7%AE%80%E5%8E%86%E5%87%86%E5%A4%87/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xinl.top/tags/%E7%9F%AD%E6%9C%9F%E8%A7%84%E5%88%92/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xinl.top/tags/%E9%95%BF%E6%9C%9F%E7%9B%AE%E6%A0%87/</loc>
     <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -76,14 +97,28 @@
 
   
   <url>
-    <loc>http://example.com/categories/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/</loc>
+    <loc>http://xinl.top/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
     <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95/</loc>
+    <loc>http://xinl.top/categories/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/MySQL/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xinl.top/categories/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/</loc>
+    <lastmod>2020-11-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xinl.top/categories/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/%E7%AC%94%E8%AF%95%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2020-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
